@@ -1,0 +1,60 @@
+{
+    "challenges": [
+      {
+        "id": 1,
+        "question": "What activity typically contributes the most to an individual's carbon footprint?",
+        "options": [
+          { "option": "Driving a car", "isCorrect": false },
+          { "option": "Eating meat", "isCorrect": true },
+          { "option": "Using electricity", "isCorrect": false },
+          { "option": "Taking a flight", "isCorrect": false }
+        ],
+        "explanation": "Eating meat, particularly beef, has a significant impact on carbon emissions due to the methane produced by livestock and the deforestation associated with grazing land and feed production."
+      },
+      {
+        "id": 2,
+        "question": "Which of the following energy sources is considered renewable and environmentally friendly?",
+        "options": [
+          { "option": "Coal", "isCorrect": false },
+          { "option": "Natural gas", "isCorrect": false },
+          { "option": "Solar", "isCorrect": true },
+          { "option": "Nuclear", "isCorrect": false }
+        ],
+        "explanation": "Solar energy is generated from sunlight, a renewable resource that doesn't produce greenhouse gas emissions or air pollutants during energy generation."
+      },
+      {
+        "id": 3,
+        "question": "What is the best way to reduce plastic waste in the environment?",
+        "options": [
+          { "option": "Recycling", "isCorrect": true },
+          { "option": "Composting", "isCorrect": false },
+          { "option": "Reusing", "isCorrect": false },
+          { "option": "Incineration", "isCorrect": false }
+        ],
+        "explanation": "Recycling, reusing, and composting are preferable to incineration, as they help conserve resources, reduce pollution, and minimize the amount of waste sent to landfills or burned."
+      },
+      {
+        "id": 4,
+        "question": "Which mode of transportation typically has the lowest carbon emissions per passenger mile?",
+        "options": [
+          { "option": "Personal car", "isCorrect": false },
+          { "option": "Bicycle", "isCorrect": true },
+          { "option": "Bus", "isCorrect": false },
+          { "option": "Airplane", "isCorrect": false }
+        ],
+        "explanation": "Bicycles have zero carbon emissions and are considered one of the most sustainable modes of transportation for short to medium distances."
+      },
+      {
+        "id": 5,
+        "question": "What is the primary greenhouse gas responsible for global warming?",
+        "options": [
+          { "option": "Methane", "isCorrect": false },
+          { "option": "Carbon dioxide", "isCorrect": true },
+          { "option": "Nitrous oxide", "isCorrect": false },
+          { "option": "Ozone", "isCorrect": false }
+        ],
+        "explanation": "Carbon dioxide (CO2) is the primary greenhouse gas emitted through human activities such as burning fossil fuels, deforestation, and industrial processes."
+      }
+    ]
+  }
+  
